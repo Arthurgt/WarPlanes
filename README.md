@@ -3,6 +3,7 @@
 Simple action game. You have to control your plane and defeat enemies. There is 3 levels and 3 bosses. Created using Java and Swing.
 
 w,a,s,d - movement
+
 space - shooting
 
 ![zdjecie](https://github.com/Arthurgt/MyFirstGame/blob/master/menu.png)
