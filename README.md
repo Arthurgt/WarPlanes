@@ -1,3 +1,4 @@
 # MyFirstGame
-!(https://github.com/Arthurgt/MyFirstGame/menu.png)
+!(https://github.com/Arthurgt/MyFirstGame/blob/master/menu.png)
+
 
